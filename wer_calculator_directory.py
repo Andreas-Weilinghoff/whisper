@@ -13,6 +13,8 @@
 # 4. Counts the number of words in each normalized transcript.
 # 5. Aggregates all results into a single CSV file (`wer_results_werpy.csv`) for further analysis.
 #
+# Reference for werpy: Armstrong, R. (2024). werpy - Word Error Rate for Python [Computer software]. https://github.com/analyticsinmotion/werpy
+#
 # This script is distributed under the GNU General Public License.
 # Copyright 21/07/2025 by Andreas Weilinghoff.
 # You may use/modify this script as you wish. It would just be nice if you cite me:
